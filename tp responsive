@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>unidad6</title>
+<link rel="stylesheet" href="estilo.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk&display=swap" rel="stylesheet">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Schibsted+Grotesk&display=swap" rel="stylesheet">
+</head>
+<body>
+
+<header id="cabecera">
+    <div class="caja1c">
+        <nav>
+           <ul>
+            <li id="li1"> <a href="#section1">Who we are?</a></li>
+            <li id="li2"> <a href="#section2">What we do?</a></li>
+            <li id="li3"> <a href="#section3">Where we are?</a></li>
+           </ul>
+        </nav>
+    </div>
+    <div id="caja2c"> <a href="https://www.google.com" class="button">Donate :)</a></button> </div>
+    <div class="caja3c"><img src="foldergreennetwork_93276.png" class="iconsicons"></div>
+</header>
+
+<section class="section1"> <a name="section1"> </a> 
+    <div class="section1s1">
+        <h1 class="principaltitle"> For life </h1>
+        <h2 class="primerh2">Somos una organización sin fines de lucro, independiente, que no acepta donaciones de gobiernos, empresas o partidos políticos.</h2>
+    <p> beatae eveniet odit excepturi Lorem ipsum, dolor sit amet consectetur adipisicing elit. Est eos veniam praesentium cum adipem ipsum dolor sit amet consectetur, adipisicing elit. Doloremque,ceat impedit, incidunt natus nobis voluptate id nisi, omnis quasi consequatur explicabo voluptas. Beatae, modi? Nemo quos corrupti accusamus perspiciatis?Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate tempore omnis deserunt ipsa deleniti excepturi amet consequuntur expedita aliquam iusto. Nobis harum est sapiente eos saepe repudiandae velit, ametlorem Lorem ipsum, dolor sit amet consectetur adipisicing elit. Porro ipsa quos enim est consequuntur numquam cupiditate ut ea error libero, obcaecati at sit distinctio suscipit quidem maxime sapiente fuga totam </p>
+</div>
+    <div class="section2s1"> <img src="arbol.jpg" class="arbol"> <p> Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore deserunt, exercitationem architecto pariatur corrupti accusamus illum omnis cumque a delectus quos sint autem reprehenderit! Excepturi repellendus voluptatum ab nulla consectetur? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi sed suscipit, adipisci quo id accusamus laudantium molestiae rerum dolorem dicta repudiandae exercitationem? Maiores aperiam veritatis ad, esse nemo amet moll Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum animi dicta deleniti nisi iusto iste eligendi, vitae atque dolor. Temporibus commodi sunt tempore minus dignissimos facere quaerat eius sint </p> </div>
+    <div class="section3s1"> <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Inventore deserunt, exercitationem architecto pariatur corrupti accusamus illum omnis cumque a delectus quos sint autem reprehenderit! Excepturi repellendus voluptatum ab nulla consectetur? Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quasi sed suscipit, adipisci quo id accusamus laudantium molestiae rerum dolorem dicta repudiandae exercitationem? Maiores aperiam veritatis ad, esse nemo amet moll Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum animi dicta deleniti nisi iusto iste eligendi, vitae atque dolor. Temporibus commodi sunt tempore minus dignissimos facere quaerat eius sint </p><img src="arbol2.jpg" class="arbol2"></div>
+    <div class="section4s1"> <img src="gaviotas.jpg" class="gaviotas"></img></div>
+    <div class="section5s1"> <img src="gazella.jpg" class="gazella"></div>
+</section>
+<section class="section2"> <a name="section2"> </a>
+    <div class="section1s2"></div>
+    <div class="section2s2"></div>
+    <div class="section3s2"></div>
+</section>
+<section class="section3"> <a name="section3"> </a>
+    <div class="section1s3"></div>
+    <div class="section2s3"></div>
+    <div class="section3s3"></div>
+    <div class="section4s3"></div>
+
+    </section> 
+<footer class="footer">
+
+    <div class="infooter">
+        <h2 class="footerh2">Contact us:</h2><br>
+        <img src="icons8-twitter-30.png" class="footericons"><a href="https://www.twitter.com" class="twitter">Twitter</a>
+        <img src="icons8-facebook-30.png" class="footericons"><a href="https://www.facebook.com" class="facebook">Facebook</a>
+        <img src="telefono.png" class="telefono"><p class="number">+54-11-1111-1111</p> <br>
+        <p></p>
+    </div>
+
+</footer>
+</body>
+</html>
